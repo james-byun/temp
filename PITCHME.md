@@ -3,6 +3,7 @@
 # CityGML 건물 `GML` 예제 파일
 
 ---
+```XML
 <CityModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.opengis.net/citygml/2.0" xmlns:xAL="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0"
     xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml" xmlns:dem="http://www.opengis.net/citygml/relief/2.0"
     xmlns:bldg="http://www.opengis.net/citygml/building/2.0" xsi:schemaLocation="http://www.opengis.net/citygml/building/2.0 http://schemas.opengis.net/citygml/building/2.0/building.xsd http://www.opengis.net/citygml/relief/2.0 http://schemas.opengis.net/citygml/relief/2.0/relief.xsd">
@@ -284,3 +285,4 @@
         </bldg:Building>
     </cityObjectMember>
 </CityModel>
+```
